@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<preLoadSource>
+		<item name="PreLoad" source="style/preLoad.swf?v=" label="正在加载游戏资源">
+		<item name="PuzzleGame" source="PuzzleGame.swf?v=" label="正在加载游戏主程序">
+	</preLoadSource>
+</root>
