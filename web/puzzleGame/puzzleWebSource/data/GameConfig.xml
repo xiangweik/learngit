@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<preLoadSource><!--需要预先加载的资源-->
+		<item pathType="StylePath" name="PreLoad" source="preLoad.swf?v=" label="正在加载游戏准备资源"></item>
+		<item pathType="SWFPath" name="PuzzleGame" source="PuzzleGame.swf?v=" label="正在加载游戏主程序"></item>
+	</preLoadSource>
+	<visualSource><!--游戏运行时加载的资源-->
+		<item pathType="StylePath" name="MainStyle" source="mainStyle.swf?v=" label="正在加载游戏资源"></item>
+		<item pathType="StylePath" name="Bee" source="beeStyle.swf?v=" label="正在加载蜜蜂资源"></item>
+		<item pathType="StylePath" name="Dolphin" source="dolphinStyle.swf?v=" label="正在加载海豚资源"></item>
+		<item pathType="StylePath" name="Giraffe" source="giraffeStyle.swf?v=" label="正在加载长颈鹿资源"></item>
+		<item pathType="StylePath" name="Panda" source="pandaStyle.swf?v=" label="正在加载大熊猫资源"></item>
+		<item pathType="StylePath" name="Rabbit" source="rabbitStyle.swf?v=" label="正在加载兔子资源"></item>
+	</visualSource>
+</root>

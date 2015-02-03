@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“PuzzleGameLoading/assets/帮助.png”重命名为“loadingbg2.png”" description="重命名资源“帮助.png”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="assets/帮助.png" name="loadingbg2.png" stamp="1422923266465" updateReferences="true"/>
+</session>
